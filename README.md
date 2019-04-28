@@ -22,4 +22,4 @@
 | Дата        | Темы встречи           |   |
 | ------------- |-------------| -----|
 | 20.03.19    | основы ФП, Unidirectional Data Flow | [клик](seminars/200319-Basics-UDF.md) |
-| 10.04.19 | FRP: Behaviour vs Signal, DSL в Scala |   [клик]() |
+| 10.04.19 | FRP: Behaviour vs Signal, DSL в Scala |   [клик](seminars/100419-FRP-DSL.md) |
